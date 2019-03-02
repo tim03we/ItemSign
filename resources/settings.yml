@@ -1,0 +1,26 @@
+---
+# Please do not change this!
+version: "1.0.4"
+
+# Edit the time with the given variables.
+# H = hours number
+# i = minutes number
+# s = second number
+time-format: "H:i:s"
+
+# Edit the time with the given variables.
+# d = day
+# m = month
+# Y = year
+date-format: "d.m.Y"
+
+# Edit the lines that should be displayed when signing.
+# {date} = date specification
+# {time} = time
+# {name} = From whom it was signed
+lore-line1: "Signed on {date} at {time}"
+lore-line2: "Signed by {name}"
+
+# Show your message when the item has been signed.
+finished-signed: "Your item was successfully signed with a date, time and the new name."
+...
