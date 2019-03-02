@@ -8,7 +8,7 @@ The following will be displayed when signing:
 
 Command | Description | Default | Alias
 --------- | ------------------- | ------- | ------
-/ itemsign | Sign your item | op | isign
+/itemsign | Sign your item | op | isign
 
 ----------------
 
